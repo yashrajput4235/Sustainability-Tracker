@@ -174,7 +174,7 @@ We welcome contributions! Please follow these steps:
 
 ## 👥 Authors
 
-- **Yash Rajput** - *Initial Development* - [Your GitHub](https://github.com/yourusername)
+- **Yash Rajput** - *Initial Development* - [My GitHub](https://github.com/yashrajput4235)
 
 ## 🙏 Acknowledgments
 
@@ -184,7 +184,7 @@ We welcome contributions! Please follow these steps:
 
 ## 📞 Support
 
-For issues or questions, open an issue on GitHub or contact [your-email@example.com].
+For issues or questions, open an issue on GitHub or contact [yrajpoot648@gmail.com].
 
 ---
 
