@@ -137,5 +137,4 @@ Detailed reference for functions in `data_processing.py`.
 - Add docstrings to new functions.
 - Test changes locally before PR.
 
-## License
-MIT License. See LICENSE file.
+
